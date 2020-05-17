@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/perfectmat-common/dalarm-common.iml" filepath="$PROJECT_DIR$/perfectmat-common/dalarm-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perfectmat-demo/demo-perfectmat/demo-perfectmat.iml" filepath="$PROJECT_DIR$/perfectmat-demo/demo-perfectmat/demo-perfectmat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hummer-parent.iml" filepath="$PROJECT_DIR$/hummer-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perfectmat/hummer-perfectmat.iml" filepath="$PROJECT_DIR$/perfectmat/hummer-perfectmat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perfectmat-common/perfectmat-common.iml" filepath="$PROJECT_DIR$/perfectmat-common/perfectmat-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perfectmat-demo/perfectmat-demo.iml" filepath="$PROJECT_DIR$/perfectmat-demo/perfectmat-demo.iml" />
+    </modules>
+  </component>
+</project>
